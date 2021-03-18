@@ -144,7 +144,7 @@
                                     <artifactItem>
                                         <groupId>com.heroku</groupId>
                                         <artifactId>webapp-runner</artifactId>
-                                        <version>9.0.41.0</version>
+                                        <version>8.5.64</version>
                                         <destFileName>webapp-runner.jar</destFileName>
                                     </artifactItem>
                                 </artifactItems>
