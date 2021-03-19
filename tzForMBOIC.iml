@@ -24,6 +24,9 @@
         </fileset>
       </configuration>
     </facet>
+    <facet type="app-engine-standard" name="Google App Engine Standard">
+      <configuration />
+    </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/target/classes" />
@@ -48,6 +51,7 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="poi-ooxml-3.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Google App Engine Standard Local Server" level="application_server_libraries" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.2.4.RELEASE" level="project" />
